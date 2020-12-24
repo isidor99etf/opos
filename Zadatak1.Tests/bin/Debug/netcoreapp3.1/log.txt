@@ -1,0 +1,5 @@
+Task Scheduled on Free Thread 0, Task Priority: 3
+Task Scheduled on Free Thread 1, Task Priority: 2
+Task Scheduled on Free Thread 2, Task Priority: 1
+Task Scheduled on Free Thread 3, Task Priority: 4
+Task Scheduled on Free Thread 4, Task Priority: 5

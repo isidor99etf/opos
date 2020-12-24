@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zIrqAzRfZzFobfGpPGjXBIePYNZN3VHooryvcy8lOigUZFFOlSpJsqUX28bZUwiQm6OcQucdLEVTe9w0rzID1g==",
+  "success": true,
+  "projectFilePath": "H:\\OPRRV OPOS\\Project\\OposZadaci2020\\Zadatak1\\Zadatak1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sajin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sajin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

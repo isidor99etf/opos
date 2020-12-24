@@ -1,0 +1,9 @@
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1\bin\Debug\netstandard2.0\Zadatak1.deps.json
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1\bin\Debug\netstandard2.0\Zadatak1.dll
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1\bin\Debug\netstandard2.0\Zadatak1.pdb
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1\obj\Debug\netstandard2.0\Zadatak1.csprojAssemblyReference.cache
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1\obj\Debug\netstandard2.0\Zadatak1.AssemblyInfoInputs.cache
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1\obj\Debug\netstandard2.0\Zadatak1.AssemblyInfo.cs
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1\obj\Debug\netstandard2.0\Zadatak1.csproj.CoreCompileInputs.cache
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1\obj\Debug\netstandard2.0\Zadatak1.dll
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1\obj\Debug\netstandard2.0\Zadatak1.pdb

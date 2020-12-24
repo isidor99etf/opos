@@ -1,0 +1,6 @@
+Task Scheduled on Free Thread 0, Task Priority: 4
+Task Scheduled on Free Thread 1, Task Priority: 2
+Task ID: 480013, Task Priority: HIGH, Task Duration: 1600, Task Executed On Thread: 1, Task Resources Count: 1, Resources: R3
+Task Scheduled on Free Thread 1, Task Priority: 3
+Task ID: 382550, Task Priority: MEDIUM, Task Duration: 1200, Task Executed On Thread: 1, Task Resources Count: 1, Resources: R3
+Task ID: 312096, Task Priority: LOW, Task Duration: 5000, Task Executed On Thread: 0, Task Resources Count: 1, Resources: R2

@@ -1,0 +1,16 @@
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1.Demo\bin\Debug\netcoreapp3.1\Zadatak1.Demo.exe
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1.Demo\bin\Debug\netcoreapp3.1\Zadatak1.Demo.deps.json
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1.Demo\bin\Debug\netcoreapp3.1\Zadatak1.Demo.runtimeconfig.json
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1.Demo\bin\Debug\netcoreapp3.1\Zadatak1.Demo.runtimeconfig.dev.json
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1.Demo\bin\Debug\netcoreapp3.1\Zadatak1.Demo.dll
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1.Demo\bin\Debug\netcoreapp3.1\Zadatak1.Demo.pdb
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1.Demo\obj\Debug\netcoreapp3.1\Zadatak1.Demo.csprojAssemblyReference.cache
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1.Demo\obj\Debug\netcoreapp3.1\Zadatak1.Demo.AssemblyInfoInputs.cache
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1.Demo\obj\Debug\netcoreapp3.1\Zadatak1.Demo.AssemblyInfo.cs
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1.Demo\obj\Debug\netcoreapp3.1\Zadatak1.Demo.csproj.CoreCompileInputs.cache
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1.Demo\obj\Debug\netcoreapp3.1\Zadatak1.Demo.dll
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1.Demo\obj\Debug\netcoreapp3.1\Zadatak1.Demo.pdb
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1.Demo\obj\Debug\netcoreapp3.1\Zadatak1.Demo.genruntimeconfig.cache
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1.Demo\bin\Debug\netcoreapp3.1\Zadatak1.dll
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1.Demo\bin\Debug\netcoreapp3.1\Zadatak1.pdb
+H:\OPRRV OPOS\Project\OposZadaci2020\Zadatak1.Demo\obj\Debug\netcoreapp3.1\Zadatak1.Demo.csproj.CopyComplete
